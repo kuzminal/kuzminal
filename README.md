@@ -12,6 +12,10 @@
 
 Так же по префиксам к репозиториям можно понять, что внутри код с использованием фрэймворка Spring или Quarkus. Например, [тут](https://github.com/kuzminal/Spring-Book-Store-OpenAPI) я использовал Spring, а [тут](https://github.com/kuzminal/Quarkus-QuarkShop) исследовал Quarkus
 
+REST API используется во многих репозиториях.
+
+Начал осваивать GraphQL [тут](https://github.com/kuzminal/Spring-Blog-GraphQL) и [тут](https://github.com/kuzminal/GraphQL-API-Practice) 
+
 ## Про языки программирования
 
 Большинство репозиториев содержат код на Java, но есть и Kotlin, например, [тут](https://github.com/kuzminal/BookShop-Catalog), и Go, например, [тут](https://github.com/kuzminal/book-catalog-golang). Кстати, эти два репозитория - это по сути один и тот же сервис, но написанный на разных языках для сравнения производительность (Go оказался ожидаемо более производительны или скорее менее требовательный к доступным ресурсам).

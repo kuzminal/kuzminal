@@ -19,7 +19,7 @@
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)  
 
-<p> <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=kuzminal&layout=compact"/>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzminal&layout=compact"/>
 </p>
 
 ### Databases:

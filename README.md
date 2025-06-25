@@ -1,21 +1,51 @@
-## Всем привет 👋
+# Привет! 👋 Меня зовут Алексей и я - архитектор
 
-- 🔭 В настоящее время я работаю архитектором на одном из крупных проектов в банке из ТОП-3. Наш проект включает в себя уже 300+ микросервисов, и их количество постоянно растет
-- 🌱 Постоянно развиваюсь и изучаю что-то новое. Не могу назвать себе супер-разработчиком, но тем не менее, разрабатываю на Java, Kotlin и с недавних пор начал осваивать Go.
-- Связаться со мной можно по почте kuzmin.al35@gmail.com
 
-## Про мои репозитории
+[![Visitors]](https://visitor-badge.laobi.icu/badge?page_id=kuzminal.kuzminal)(https://github.com/kuzminal)
+[![GitHub Followers]](https://img.shields.io/github/followers/kuzminal?label=Follow&style=social)(https://github.com/kuzminal)
 
-Т.к. текущая должность не предполагает участие в разработке, то я постоянно решаю задачки на JetBrains Acdemy (она же HyperSkill)
+## 🛠️ Мой технологический стек
+### Языки: 
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
+![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)  
 
-Репозитории с учебными проектами можно найти по префиксу HyperSkill* в их названии, например, [этот](https://github.com/kuzminal/HyperSkill-CodeSharingPlatform)
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzminal&layout=compact)(https://github.com/kuzminal)
 
-Так же по префиксам к репозиториям можно понять, что внутри код с использованием фрэймворка Spring или Quarkus. Например, [тут](https://github.com/kuzminal/Spring-Book-Store-OpenAPI) я использовал Spring, а [тут](https://github.com/kuzminal/Quarkus-QuarkShop) исследовал Quarkus
+### Databases:
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![ClickHouse](https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg)
+![Redis](https://www.vectorlogo.zone/logos/redis/redis-icon.svg)
+![Tarantool](https://tarantool-io.hb.bizmrg.com/pub/250623-1615-bf52251/tarantool/images/logo-tarantool-white-full.svg)
+![MongoDb](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 
-REST API используется во многих репозиториях.
 
-Начал осваивать GraphQL [тут](https://github.com/kuzminal/Spring-Blog-GraphQL) и [тут](https://github.com/kuzminal/GraphQL-API-Practice) 
+### DevOps:
+![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 
-## Про языки программирования
 
-Большинство репозиториев содержат код на Java, но есть и Kotlin, например, [тут](https://github.com/kuzminal/BookShop-Catalog), и Go, например, [тут](https://github.com/kuzminal/book-catalog-golang). Кстати, эти два репозитория - это по сути один и тот же сервис, но написанный на разных языках для сравнения производительность (Go оказался ожидаемо более производительны или скорее менее требовательный к доступным ресурсам).
+## 📈 Статистика активности
+
+[![GitHub Stats]](https://github-readme-stats.vercel.app/api?username=kuzminal&show_icons=true&theme=radical)(https://github.com/kuzminal)
+
+
+## 🚀 Мои ключевые проекты
+
+- [Проект 1](https://github.com/kuzminal/project1) - Краткое описание проекта
+- [Проект 2](https://github.com/kuzminal/project2) - Основные технологии и особенности
+- [Проект 3](https://github.com/kuzminal/project3) - Достигнутые результаты
+
+## 📫 Как со мной связаться
+
+[![Telegram]](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)(https://t.me/aleks_kuzm)
+[![Email]](https://img.shields.io/badge/-Email-EA4335?logo=gmail)(mailto:mailme@aleksey-kuzmin.ru)
+
+## 💡 Интересные факты
+
+- 🔭 В настоящее время я работаю архитектором на одном из крупных проектов в банке из ТОП-5. Строим платформу для автоматизации бизнес-процессов. 
+- 💡 На предыдущем проекте было 300+ микросервисов, от которых взрывался 🧠
+- 🌱 Постоянно развиваюсь и изучаю что-то новое, прохожу курсы, читаю книги
+- ⚡ Увлечения: Путешествия, фотография и плавание в бассейне

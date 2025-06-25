@@ -10,10 +10,8 @@
 <img src="https://img.shields.io/github/followers/kuzminal?label=Follow&style=social"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuzminal" alt="kuzminal" /></a> </p>
-
 ## 🛠️ Мой технологический стек
-### Языки: 
+### 👨‍💻 Языки: 
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
@@ -22,16 +20,16 @@
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzminal&layout=compact"/>
 </p>
 
-### Databases:
+### 🛢️ Databases:
 PostgreSQL, ClickHouse, Redis, Tarantool, MongoDb
 
-### Brokers:
+### 📦 Brokers:
 Kafka, IBM MQ, ActiveMq, NATS
 
-### DevOps:
+###  💻 DevOps:
 Kubernetes, Istio, Docker, Jenkins
 
-### Прочее:
+### 🔧 Прочее:
 Structurizr, C4 Model, Git
 
 ## 🚀 Мои ключевые проекты
@@ -47,4 +45,4 @@ Structurizr, C4 Model, Git
 - 🔭 В настоящее время я работаю архитектором на одном из крупных проектов в банке из ТОП-5. Строим платформу для автоматизации бизнес-процессов. 
 - 💡 На предыдущем проекте было 300+ микросервисов, от которых взрывался 🧠
 - 🌱 Постоянно развиваюсь и изучаю что-то новое, прохожу курсы, читаю книги
-- ⚡ Увлечения: Путешествия, фотография и плавание в бассейне
+- ⚡ Увлечения: Путешествия, фотография и плавание в бассейне 🏊‍♂️ 

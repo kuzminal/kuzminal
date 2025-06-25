@@ -1,8 +1,12 @@
 # Привет! 👋 Меня зовут Алексей и я - архитектор
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=kuzminal&label=Profile%20views&color=0e75b6&style=flat" alt="kuzminal" /> 
 
-[![Visitors]](https://visitor-badge.laobi.icu/badge?page_id=kuzminal.kuzminal)(https://github.com/kuzminal)
-[![GitHub Followers]](https://img.shields.io/github/followers/kuzminal?label=Follow&style=social)(https://github.com/kuzminal)
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=kuzminal.kuzminal"/> 
+
+<img src="https://img.shields.io/github/followers/kuzminal?label=Follow&style=social"/>
+</p>
 
 ## 🛠️ Мой технологический стек
 ### Языки: 
@@ -20,17 +24,14 @@
 ![Tarantool](https://tarantool-io.hb.bizmrg.com/pub/250623-1615-bf52251/tarantool/images/logo-tarantool-white-full.svg)
 ![MongoDb](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
 
-
 ### DevOps:
 ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 
-
 ## 📈 Статистика активности
 
-[![GitHub Stats]](https://github-readme-stats.vercel.app/api?username=kuzminal&show_icons=true&theme=radical)(https://github.com/kuzminal)
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=kuzminal&show_icons=true&theme=radical"/>
 
 ## 🚀 Мои ключевые проекты
 
@@ -39,9 +40,10 @@
 - [Проект 3](https://github.com/kuzminal/project3) - Достигнутые результаты
 
 ## 📫 Как со мной связаться
-
-[![Telegram]](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)(https://t.me/aleks_kuzm)
-[![Email]](https://img.shields.io/badge/-Email-EA4335?logo=gmail)(mailto:mailme@aleksey-kuzmin.ru)
+<p align="center">
+<a href="https://t.me/aleks_kuzm"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white"/></a>
+<a href="mailto:mailme@aleksey-kuzmin.ru"><img src="https://img.shields.io/badge/email-mailme@aleksey-kuzmin.ru?logo=gmail"/></a>
+</p>
 
 ## 💡 Интересные факты
 

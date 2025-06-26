@@ -34,11 +34,11 @@ Structurizr, C4 Model, Git
 
 ## 🚀 Мои ключевые проекты
 
+- [Социальная сеть](https://github.com/kuzminal/Social-Network-For-HighLoad) - Реализовывал проект на Go, когда проходил курс по HighLoad архитектуре
+- [Cloud Bookshop](https://github.com/kuzminal/Cloud-BookShop) - репозиторий с примерами реализации Cloud Native микросервисов на Java и Kotlin, Spring Boot
 - [Распределенное хранилище key:value](https://github.com/kuzminal/distributed-kv-storage) - Небольшой проект на Go рапределенного In-Memory хранилища
-- [Социальная сеть](https://github.com/kuzminal/Social-Network-For-HighLoad) - Реализовывал проект, когда проходил курс по HighLoad архитектуре
 - [Шардирование в PostgreSQL](https://github.com/kuzminal/Postgres-Sharding-With-FDW) - репозиторий с моими изысканиями по шардированию в ванильном PostgreSQL
 - [Camunda](https://github.com/kuzminal/camunda-proccessing-demo) - репозиторий с примерами реализации процессов на Camunda Platform 8
-
 
 ## 💡 Интересные факты
 

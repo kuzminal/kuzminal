@@ -33,6 +33,13 @@ Kubernetes, Istio, Docker, Jenkins
 Structurizr, C4 Model, Git
 
 ## 🚀 Мои ключевые проекты
+### AI / LLM
+- [LLM Routing в Kafka Streams](https://github.com/kuzminal/LLM-Routing-With-Kafka-Streams) - Приложение анализирует входящие сообщения с использованием большой языковой модели (LLM) и маршрутизирует их в соответствующие топики Kafka
+- [Продвинутые промты с использованием Python]((https://github.com/kuzminal/Prompt-Engineering-In-Action)) - Реализовал анализ объявлений и выделение из них сколько человек (детей и взрослых) ищут жилье
+- [Spring AI Application with Gemma 3 and PostgreSQL](https://github.com/kuzminal/Spring-AI-App) - Чат с историей на Spring AI и pg_vector в качестве хранения эмбеддингов
+- [RAG на Python]((https://github.com/kuzminal/Simple-RAG-System)) - Поиск релевантной информации и генерацию ответов с помощью языковой модели
+
+---
 
 - [Социальная сеть](https://github.com/kuzminal/Social-Network-For-HighLoad) - Реализовывал проект на Go, когда проходил курс по HighLoad архитектуре
 - [Cloud Bookshop](https://github.com/kuzminal/Cloud-BookShop) - репозиторий с примерами реализации Cloud Native микросервисов на Java и Kotlin, Spring Boot

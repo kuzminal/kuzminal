@@ -5,8 +5,8 @@
 
 <p align="left">
   <a href="mailto:mailme@aleksey-kuzmin.ru"><img src="https://img.shields.io/badge/Email-mailme%40aleksey--kuzmin.ru-blue?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/aleks_kuzm"><img src="https://img.shields.io/badge/Telegram-%40ник-blue?style=flat-square&logo=telegram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/алексей-кузьмин-9a274ba1"><img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/aleks_kuzm"><img src="https://img.shields.io/badge/Telegram-%40@aleks_kuzm-blue?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/алексей-кузьмин-9a274ba1"><img src="https://img.shields.io/badge/LinkedIn-Алексей Кузьмин-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
   <img src="https://img.shields.io/github/followers/kuzminal?label=Follow&style=social">
 </p>
 
